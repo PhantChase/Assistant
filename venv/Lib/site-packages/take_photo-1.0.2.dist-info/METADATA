@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: take-photo
+Version: 1.0.2
+Summary: Take a photo with a webcam
+Home-page: https://github.com/m-nez/take_photo
+Author: Michał Nieznański
+Author-email: nieznanm@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python
+
+# Take a photo with a webcam and save it to a file
+# Installation
+`python -m pip install take_photo`
+# Usage
+`python -m take_photo image.png`
+
+
